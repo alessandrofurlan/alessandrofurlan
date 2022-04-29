@@ -1,5 +1,6 @@
 # Hi, I'm Alessandro Furlan (💻⚛️🚀🥋)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cloud+developer+at+Ap%C3%AA11;Physics+undergrad;Aerospace+Engineering+undergrad;Quantum+Optics+Junior+researcher)](https://git.io/typing-svg)
 <!--
 **alessandrofurlan/alessandrofurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

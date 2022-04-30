@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/his;
 - 🥋 Karate black belt and athlete.
 
-## 🔧 Technologies
+<!-- ## 🔧 Technologies -->
 
 
 <div align="center">
@@ -30,17 +30,23 @@ I'm quite good at:
 &nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 &nbsp;
-![post](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-&nbsp;
 ![exp](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)    
+&nbsp;
+![post](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 &nbsp;
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 &nbsp;
     
 Currently improving:
 
+
 ![doc](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
+![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+    
+I have some experience at:
+    
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 &nbsp;
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,21 +54,6 @@ Currently improving:
     
     
 </div>
-<!--
-**alessandrofurlan/alessandrofurlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
     Where else to find me:
     

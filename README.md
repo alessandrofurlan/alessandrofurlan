@@ -10,8 +10,8 @@
 - 😄 Pronouns: He/his;
 - 🥋 Karate black belt and athlete.
 
-<!-- ## 🔧 Technologies -->
 
+---
 
 <div align="center">
 
@@ -37,6 +37,8 @@ I'm quite good at:
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 &nbsp;
     
+<br>    
+    
 Currently improving:
 
 
@@ -44,6 +46,8 @@ Currently improving:
 &nbsp;
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+    
+<br>    
     
 I have some experience at:
     
@@ -54,10 +58,14 @@ I have some experience at:
     
     
 </div>
+
+---
+
 <div align="center">
-    Where else to find me:
+
+Where else to find me:
     
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-credidio-furlan/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-credidio-furlan/)
 &nbsp;
     
 </div>

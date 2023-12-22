@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technical+Product+Manager+at+Ap%C3%AA11;Physicist+graduated+from+UFABC)](https://git.io/typing-svg)
 
-- 💼 Cloud developer at Apê11 (4+ years);
+- 💼 Technical Product Manager at Apê11 (4+ years);
 - 📚 Physicist graduated from UFABC (2023);
 - 💻 Interest in Quantum Computation, Artificial Intelligence & Image Processing;
 - 😄 Pronouns: He/him;

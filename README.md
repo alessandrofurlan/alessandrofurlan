@@ -1,15 +1,12 @@
-# Hi, I'm Alessandro Furlan (💻⚛️🚀🥋)
+# Hi, I'm Alessandro Furlan (💻⚛️🥋)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Cloud+developer+at+Ap%C3%AA11;Physics+undergrad;Aerospace+Engineering+undergrad;Quantum+Optics+Junior+researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technical+Product+Manager+at+Ap%C3%AA11;Physicist+graduated+from+UFABC)](https://git.io/typing-svg)
 
-- 💼 Cloud developer at Apê11 (3+ years);
-- 📚 Physics (2022) & Aerospace Engineering (2023) undergraduate student at UFABC;
-- 🧑‍🔬 Junior researcher at UFABC Quantum Optics and Computation Lab;
-- 💡 Currently working on my Bachelor of Physics' dissertation on Nonlinear Optics;
+- 💼 Cloud developer at Apê11 (4+ years);
+- 📚 Physicist graduated from UFABC (2023);
 - 💻 Interest in Quantum Computation, Artificial Intelligence & Image Processing;
-- 😄 Pronouns: He/his;
+- 😄 Pronouns: He/him;
 - 🥋 Karate black belt and athlete.
-
 
 ---
 

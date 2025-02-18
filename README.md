@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro Furlan (💻⚛️🥋)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technical+Product+Manager+at+Ap%C3%AA11;Physicist+graduated+from+UFABC)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Tech+Manager+at+Santander)
 
 - 💼 Technology & Operations Manager at Santander;
 - ⌛ 6+ years of experience building software in a startup envinronment;

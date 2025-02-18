@@ -2,8 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Technical+Product+Manager+at+Ap%C3%AA11;Physicist+graduated+from+UFABC)
 
-- 💼 Technical Product Manager at Apê11 (4+ years);
-- 📚 Physicist graduated from UFABC (2023);
+- 💼 Technology & Operations Manager at Santander;
+- ⌛ 6+ years of experience building software in a startup envinronment;
+- 📚 B.Sc. in Science & Technology from UFABC (2022);
+- ⚛️ Finishing my B.Sc. in Physics from UFABC;
 - 💻 Interest in Quantum Computation, Artificial Intelligence & Image Processing;
 - 😄 Pronouns: He/him;
 - 🥋 Karate black belt and athlete.
